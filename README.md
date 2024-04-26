@@ -11,7 +11,7 @@ Task 1: Setup and Configuration
 
 Create a GitRepository: Create a Github repository and host your source code in the same repository.
          
-        Github Repo Link:  https://github.com/basava1139/argo_deployment_canary
+        Github Repo Link: https://github.com/basava1139/setweight/
 
 2.    Install Argo CD on Your Kubernetes Cluster:
        minikube version: v1.32.0
